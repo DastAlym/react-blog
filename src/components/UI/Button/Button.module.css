@@ -1,0 +1,17 @@
+.button {
+	padding: 20px 50px;
+	background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+	cursor: pointer;
+	border: none;
+	outline: none;
+	border-radius: 4px;
+	letter-spacing: 0.5px;
+	width: 250px;
+	/* Text */
+
+	font-weight: 700;
+	font-size: 16px;
+	color: #ffffff;
+	text-align: center;
+	letter-spacing: 0.5px;
+}
